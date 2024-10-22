@@ -28,17 +28,21 @@ The architecture consists of an encryption module, a steganography module utiliz
 
 ## Output
 
-### AES Encryption Output
-![AES Encryption Output](link_to_aes_encryption_output_image)
+## Image Steganography Output
+#![image stego](https://github.com/user-attachments/assets/566ac4a3-cd51-4c65-8007-a448da87ea78)
 
-### AI-Based Adaptive Steganography
-![AI Steganography Output](link_to_ai_steganography_output_image)
+### Video Steganography Output
+![video stego](https://github.com/user-attachments/assets/2dbdc4ab-25ea-4555-927c-c7e6c2432e92)
 
-- **Tamper-proof** data embedding with blockchain.
-- **High Security**: Data remains confidential with AES encryption.
+### Audio Steganography Output
+![audio stego](https://github.com/user-attachments/assets/5adbc7e8-9b44-4a46-892f-b44262850f2a)
+
+### Text Steganography Output
+![text stego](https://github.com/user-attachments/assets/0f785b19-98cf-4b25-b9fb-1168825f0b2b)
+
 
 ## Results and Impact
-This project has successfully combined **encryption**, **blockchain**, and **AI** to create a steganography system that is more secure, transparent, and adaptable than traditional methods. It can significantly improve data protection in fields such as **cybersecurity**, **media content distribution**, and **secure communication**.
+This project has successfully combined **encryption** to create a steganography system that is more secure, transparent, and adaptable than traditional methods. It can significantly improve data protection in fields such as **cybersecurity**, **media content distribution**, and **secure communication**.
 
 ## Articles published / References
 1. S. S. Gupta, R. K. Yadav, & M. Gupta. (2020). *Steganography using Advanced Encryption Standard for Secure Data Hiding*. Journal of Information Security, 11(3), 150-158.
