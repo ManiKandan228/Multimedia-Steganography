@@ -1,4 +1,4 @@
-## Comprehensive Multimedia Steganography
+## Multimedia Steganography
 
 ## About
 This project develops a highly secure multimedia steganography system by integrating **Advanced Encryption Standard (AES)**, **blockchain** technology for data verification, and **AI-driven** adaptive techniques for hiding information. It ensures confidentiality, transparency, and adaptability in data hiding, making it highly resistant to modern-day steganalysis and tampering.
